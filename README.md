@@ -67,3 +67,6 @@ This directory contains subfolders for addition and multiplication benchmarks, s
 
 4 . **Configure Experiments**:
 Modify the load_config() function in src/FlexGP/utils.py as needed.
+
+**License**
+This project is licensed under the CC BY-NC 4.0 DEED License. See the [LICENSE](https://creativecommons.org/licenses/by-nc/4.0/) file for details.
