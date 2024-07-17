@@ -5,7 +5,11 @@ This repository accompanies the paper "Energy-Efficient Gaussian Processes using
 ## Citation
 Please cite our paper as follows:
 ```bash
-tbd
+@inproceedings{alderenergy,
+  title={Energy-Efficient Gaussian Processes Using Low-Precision Arithmetic},
+  author={Alder, Nicolas and Herbrich, Ralf},
+  booktitle={Forty-first International Conference on Machine Learning}
+}
 ```
 
 ## Repository Structure
